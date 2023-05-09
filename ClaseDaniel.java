@@ -1,6 +1,5 @@
 public class ClaseDaniel {
 
-
     String nombre;
 
     public ClaseDaniel(String as_nombre)
