@@ -8,7 +8,7 @@ public class Examen
 /*
         ClaseAlvaro Alvaro = new ClaseAlvaro("Alvarito Agustin");
         Alvaro.escribirnombre();
-
+*/
         ClaseCarlos Carlos = new ClaseCarlos("Carlitos Agustin");
         Carlos.escribirnombre();
 
@@ -23,13 +23,13 @@ public class Examen
 
         ClaseLaura Laura = new ClaseLaura("Lauri");
         Laura.escribirnombre();
-
+/*
         ClaseJenison Jenison = new ClaseJenison("Diaz");
         Jenison.escribirnombre();
 
         ClaseJorge Jorge = new ClaseJorge("Gamisel");
         Jorge.escribirnombre();
-
+*/
         ClaseLarisa Larisa = new ClaseLarisa("Larisa");
         Larisa.escribirnombre();
 
@@ -41,33 +41,35 @@ public class Examen
 
         ClaseRodrigo Rodrigo = new ClaseRodrigo("Lacal");
         Rodrigo.escribirnombre();
-
+/*
         ClaseDaniel Daniel = new ClaseDaniel("Martinez");
         Daniel.escribirnombre();
 
         ClaseAlejandro Alejandro = new ClaseAlejandro("Monreal");
         Alejandro.escribirnombre();
-
+*/
         ClaseJavier Javier = new ClaseJavier("Olivan");
         Javier.escribirnombre();
 
         ClaseGianCarlos GianCarlos = new ClaseGianCarlos("Picado");
         GianCarlos.escribirnombre();
-
+/*
         ClaseAlexis Alexis = new ClaseAlexis("Rodriguez");
         Alexis.escribirnombre();
-
+*/
         ClaseRuan Ruan = new ClaseRuan("Ruan");
         Ruan.escribirnombre();
 
         ClaseGemma Gemma = new ClaseGemma("Rubio");
         Gemma.escribirnombre();
-
+/*
         ClaseLucas Lucas = new ClaseLucas("Sampietro");
         Lucas.escribirnombre();
+*/
 
         ClaseTrif Trif = new ClaseTrif("George");
         Trif.escribirnombre();
+
 
         ClaseAdrian Adrian = new ClaseAdrian("Validivieso");
         Adrian.escribirnombre();
@@ -77,7 +79,7 @@ public class Examen
 
         ClaseZudaire Zudaire = new ClaseZudaire("Zudaire");
         Zudaire.escribirnombre();
-        */
+        
 
         
     }
